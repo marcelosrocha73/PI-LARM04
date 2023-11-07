@@ -6,7 +6,7 @@ public class Teste : MonoBehaviour
 {
     [SerializeField] string _nome;
     [SerializeField] int _number;
-    [SerializeField] int _number2;
+    [SerializeField] float _dec;
 
     // Start is called before the first frame update
     void Start()
